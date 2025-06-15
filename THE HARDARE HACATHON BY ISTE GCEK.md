@@ -5,7 +5,7 @@
 
 ## Purpose
 
-***To foster innovation and hands-on problem-solving among students through a competitive yet educational hardware hackathon. This initiative will challenge participants to creatively solve real-world problems using limited sensors and a tight budget—simulating real constraints in embedded system design.
+***To foster innovation and hands-on problem-solving among students through a competitive yet educational hardware hackathon. This initiative will challenge participants to creatively solve real-world problems using limited sensors and a tight budget—simulating real constraints in embedded system design.***
 
 # Name Suggestions
 
