@@ -26,7 +26,7 @@
 - Tentative Date: <input type="date">
 - Team Size : 3-5 Members
 - Eligibility : Open To all Engineering Graduates
-- Duration : 3-5 Hours
+- Duration : 3-5 Hours (Or 8 Hours Competition)
 
 # Problem Statement
 Each team must choose one of the following tracks:
