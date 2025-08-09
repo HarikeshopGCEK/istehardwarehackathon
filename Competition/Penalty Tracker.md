@@ -6,8 +6,8 @@
 | INSTRUMENTALISTS | ECO-TRACK(SMART TOILET).      | APPROVED   | 1320       | NO             |              |                |                 |             |
 | ECOSENSE         | ECO-TRACK-(POLLUTION CONTROL) | PENDING    | 1200       | NO             |              |                |                 |             |
 | WAYANAD          | ResQTech                      | APPROVED   | 678        | NO             |              |                |                 |             |
-| PAPPAN           |                               |            |            |                |              |                |                 |             |
-|                  |                               |            |            |                |              |                |                 |             |
+| PAPPAN           | ResQTech                      | APPROVED   | 380        | NO             |              |                |                 |             |
+| SQUARE SQUAD     | ResQTech                      | APPROVED   | 586        | NO             |              |                |                 |             |
 |                  |                               |            |            |                |              |                |                 |             |
 |                  |                               |            |            |                |              |                |                 |             |
 |                  |                               |            |            |                |              |                |                 |             |

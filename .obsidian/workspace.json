@@ -246,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +259,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "493327343f893124",
+  "active": "38063171010ae007",
   "lastOpenFiles": [
     "Competition/MAKEiT - ISTE GCEK STUDENT CHAPTER HARDWARE HACKATHON.md",
     "Competition/Penalty Tracker.md",
