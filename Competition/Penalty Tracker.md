@@ -1,18 +1,18 @@
 
 # Team Registration & Penalty Tracker
 
-| Team Name | Domain Selected | BOM Status | Budget (₹) | Budget Penalty | Sensors Used | Sensor Penalty | Total Penalties | Final Score |
-|-----------|-----------------|------------|------------|----------------|--------------|----------------|-----------------|-------------|
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
-|           |                 |            |            |                |              |                |                 |             |
+| Team Name        | Domain Selected               | BOM Status | Budget (₹) | Budget Penalty | Sensors Used | Sensor Penalty | Total Penalties | Final Score |
+| ---------------- | ----------------------------- | ---------- | ---------- | -------------- | ------------ | -------------- | --------------- | ----------- |
+| INSTRUMENTALISTS | ECO-TRACK(SMART TOILET).      | APPROVED   | 1320       | NO             |              |                |                 |             |
+| ECOSENSE         | ECO-TRACK-(POLLUTION CONTROL) | PENDING    | 1200       | NO             |              |                |                 |             |
+| WAYANAD          | ResQTech                      | APPROVED   | 678        | NO             |              |                |                 |             |
+| PAPPAN           |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
+|                  |                               |            |            |                |              |                |                 |             |
 
 ## Penalty Calculation Reference
 - **Budget Penalty**: 5 points deducted per ₹25 over ₹1500 limit
